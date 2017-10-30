@@ -1,0 +1,10 @@
+name: weekly_calculator
+title:
+username:
+account: gauravganve
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 221793
+bundleId: 1043257
+url: https://gauravganve.shinyapps.io/weekly_calculator/
+when: 1508885171.39913
